@@ -37,7 +37,6 @@ This project analyzes historical data from FIFA World Cup tournaments (1930 - 20
 ## 📝 Reports & Documentation
 Detailed findings and academic reports can be found here:
 * [📄 Project Report (PDF)](report.pdf)
-* [📄 Detailed Analysis (PDF)](23i-2589.pdf)
 
 ---
 
@@ -57,3 +56,4 @@ Detailed findings and academic reports can be found here:
 4.  Open `airbnb.ipynb` or `Football_WC.ipynb` to view the analysis.
 
 ---
+
